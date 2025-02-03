@@ -79,5 +79,3 @@ d (depth of the shallowest goal node)
 - **Sudoku solving**: DFS can brute-force the solution, but backtracking with heuristics is more efficient.
 
 Uninformed search is like **blindly exploring** all possible options, while informed search is like **navigating with a map and a sense of direction**.
-
-[Space Performance](Uninformed%20Search%20(%E6%97%A0%E4%BF%A1%E6%81%AF%E6%90%9C%E7%B4%A2)%2018c28e7162a5804aafc5e9592c76f538/Space%20Performance%2018c28e7162a5802fa47ce51bd102b66d.md)
