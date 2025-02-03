@@ -1,7 +1,5 @@
 # Propositional Logic
 
-[Logic Jan2024.pdf](Propositional%20Logic%2018d28e7162a5803e89c1d9d5706955e9/Logic_Jan2024.pdf)
-
 ## 🔹 1. Conditional Statements
 
 A **conditional statement** (条件语句) *p* → *q* is **false** exactly when *p* is true and *q* is false; otherwise it is true.
