@@ -1,7 +1,5 @@
 # Informed Search
 
-[31 Jan](https://www.notion.so/31-Jan-18c28e7162a58019b71bd3e6cac961f5?pvs=21) 
-
 ## 🗂️ **Summary of Key Concepts**
 
 | **Concept** | **Description** | ⚡**Key Points** | ⚠️**Common Pitfalls** |
